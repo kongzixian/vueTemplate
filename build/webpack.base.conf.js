@@ -3,6 +3,8 @@ const path = require('path')
 const utils = require('./utils')
 const config = require('../config')
 const vueLoaderConfig = require('./vue-loader.conf')
+// 打包文件可视化
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin
 
 //zjx添加
 var webpack=require("webpack");//1.确保引入webpack，后面会用到
@@ -86,6 +88,7 @@ module.exports = {
     child_process: 'empty'
   },
   plugins: [
+    new BundleAnalyzerPlugin(),
     // 3. 配置全局使用 jquery
     new webpack.ProvidePlugin({
         $: "jquery",
