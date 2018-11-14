@@ -1,0 +1,13 @@
+{"imgDatas":
+  [{"id":1,"name":"KTV","iconUrl":"../static/img/icon/subNav_1.png"},
+    {"id":2,"name":"丽人/美发","iconUrl":"../static/img/icon/subNav_2.png"},
+    {"id":3,"name":"周边游","iconUrl":"../static/img/icon/subNav_3.png"},
+    {"id":4,"name":"机票/火车票","iconUrl":"../static/img/icon/subNav_4.png"},
+    {"id":5,"name":"结婚/摄影","iconUrl":"../static/img/icon/subNav_5.png"},
+    {"id":6,"name":"美发","iconUrl":"../static/img/icon/subNav_6.png"},
+    {"id":7,"name":"景点/门票","iconUrl":"../static/img/icon/subNav_7.png"},
+    {"id":8,"name":"足疗/按摩","iconUrl":"../static/img/icon/subNav_8.png"},
+    {"id":9,"name":"美甲美睫","iconUrl":"../static/img/icon/subNav_9.png"},
+    {"id":10,"name":"全部分类","iconUrl":"../static/img/icon/subNav_10.png"}
+  ]
+}

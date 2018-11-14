@@ -1,0 +1,9 @@
+{
+"imgDatas":[
+  {"id":1,"title":"首页","url":"/","imgUrl":"../../static/img/icon/home_active.png","imgName":"home","active":true},
+  {"id":2,"title":"附近","url":"/nearby","imgUrl":"../../static/img/icon/position.png","imgName":"position","active":false},
+  {"id":3,"title":"发现","url":"/find","imgUrl":"../../static/img/icon/find.png","imgName":"find","active":false},
+  {"id":4,"title":"订单","url":"/order","imgUrl":"../../static/img/icon/order.png","imgName":"order","active":false},
+  {"id":5,"title":"我的","url":"/myUser","imgUrl":"../../static/img/icon/user.png","imgName":"user","active":false}
+]
+}

@@ -1,0 +1,8 @@
+{
+  "imgDatas":[
+    {"id":1,"title":"沧江空外带寿司","imgUrl":"../static/img/homeBodyList/listPic_1.png","distanceVal":"1.6","distanceUnit":"km","content":"[多城市] 两条友，建议2人使用","price":45,"retailSalesPrice":"54","discounts":"","workOff":22289},
+    {"id":1,"title":"韩元韩国料理","imgUrl":"../static/img/homeBodyList/listPic_2.png","distanceVal":"16.6","distanceUnit":"km","content":"[多城市] 午市单人套餐，提供免费WIFI","price":"28.8","retailSalesPrice":"","discounts":"3.8","workOff":15},
+    {"id":1,"title":"一眼拉面","imgUrl":"../static/img/homeBodyList/listPic_3.png","distanceVal":"836","distanceUnit":"m","content":"[祖庙] 日式拉面 单人餐6选1","price":"24.9","retailSalesPrice":"","discounts":"6.4","workOff":1142},
+    {"id":1,"title":"好吃韩国料理","imgUrl":"../static/img/homeBodyList/listPic_4.png","distanceVal":"15.4","distanceUnit":"km","content":"[多城市] 双人套餐A，免费提供WIFI","price":58,"retailSalesPrice":"75","discounts":"","workOff":105}
+  ]
+}

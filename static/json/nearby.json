@@ -1,0 +1,154 @@
+{
+  "tagLists":[{
+	"id": 1,
+	"name": "热门",
+	"label": "hot",
+	"isActive": true
+}, {
+	"id": 2,
+	"name": "面包甜品",
+	"label": "breadDessert",
+	"isActive": false
+}, {
+	"id": 3,
+	"name": "川菜",
+	"label": "sichuan",
+	"isActive": false
+}, {
+	"id": 4,
+	"name": "日本料理",
+	"label": "japanFood",
+	"isActive": false
+}, {
+	"id": 5,
+	"name": "湘菜",
+	"label": "hunanCuisine",
+	"isActive": false
+}, {
+	"id": 6,
+	"name": "西北菜",
+	"label": "northwestGreens",
+	"isActive": false
+}, {
+	"id": 7,
+	"name": "江浙菜",
+	"label": "zhejiangGreens",
+	"isActive": false
+}],
+"nearbyLists":[{
+		"id": 1,
+		"name": "大嘴猫老城都串串火锅(...",
+		"imgUrl": "../static/img/nearbyList/hotList_1.png",
+		"ticket": "58代100元，90代100元",
+		"star": 5,
+		"price": 68,
+		"place": "川味火锅|张锉",
+		"distance": "443",
+		"distanceUnit": "m",
+		"business": "11:30",
+		"rank": "张作火锅第2名",
+		"tagDLists": ["新客减12"]
+	},
+	{
+		"id": 2,
+		"name": "海叔仆仆贝",
+		"imgUrl": "../static/img/nearbyList/hotList_2.png",
+		"roll": "3-4人餐19元，3-4人餐19元",
+		"star": 5,
+		"price": 39,
+		"place": "海鲜火锅|张锉",
+		"distance": 560,
+		"distanceUnit": "m",
+		"business": "11:30",
+		"rank": "张作火锅第1名",
+		"tagDLists": ["朋友聚会"]
+	},
+	{
+		"id": 3,
+		"name": "欧雅泰式餐馆（洋人街店）",
+		"imgUrl": "../static/img/nearbyList/hotList_3.png",
+		"ticket": "",
+		"outer": "满30减3；满60减6；满90减9",
+		"star": 5,
+		"price": 43,
+		"place": "西餐|创意产业园",
+		"distance": "985",
+		"distanceUnit": "m",
+		"business": "",
+		"rank": "",
+		"tagDLists": ["朋友聚会", "开业减10"]
+	},
+	{
+		"id": 4,
+		"name": "景阳岗烧烤火锅吧",
+		"imgUrl": "../static/img/nearbyList/hotList_4.png",
+		"outer": "",
+		"ticket": "65代100",
+		"roll": "双人餐79.8元起，4人餐168元...",
+		"star": 5,
+		"price": 43,
+		"place": "烧烤|创意产业园",
+		"distance": "1.2",
+		"distanceUnit": "km",
+		"business": "17:30",
+		"rank": "",
+		"tagDLists": ["241人消费"]
+	},
+	{
+		"id": 5,
+		"name": "royaltea皇茶（波顿成负一楼店）",
+		"imgUrl": "../static/img/nearbyList/hotList_5.png",
+		"priceTag": "满15送3元尊享券（买单立）",
+		"roll": "10.8元饮品，13.8元招牌，22元...",
+		"star": 5,
+		"price": 15,
+		"place": "奶茶/果汁|祖庙",
+		"distance": "1.2",
+		"distanceUnit": "km",
+		"business": "",
+		"rank": "",
+		"tagDLists": ["4266人消费"]
+	},
+	{
+		"id": 6,
+		"name": "椰子岛尚音乐主题餐吧（创意产业园店）",
+		"imgUrl": "../static/img/nearbyList/hotList_6.png",
+		"out": "",
+		"roll": "10.8元饮品，13.8元招牌，22元...",
+		"star": 5,
+		"price": 45,
+		"place": "粤菜|创意产业园",
+		"distance": "1.0",
+		"distanceUnit": "km",
+		"business": "",
+		"rank": "创意产业园粤菜第3名",
+		"tagDLists": []
+	}
+],
+"moreKindLists":[{
+	"id": 1,
+	"name": "享美食",
+	"url": "enjoyFood",
+	"isActive": true
+}, {
+	"id": 2,
+	"name": "惠生活",
+	"url": "discountsLife",
+	"isActive": false
+}, {
+	"id": 3,
+	"name": "爱玩乐",
+	"url": "likePloy",
+	"isActive": false
+}, {
+	"id": 4,
+	"name": "住酒店",
+	"url": "liveHotel",
+	"isActive": false
+}, {
+	"id": 5,
+	"name": "全部",
+	"url": "complate",
+	"isActive": false
+}]
+}

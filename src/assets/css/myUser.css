@@ -1,0 +1,119 @@
+img{
+  display: block;
+  width: 100%;
+  border: none;
+}
+.myUser .myUser-header{
+  background: white;
+}
+.myUser-header .header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+  height: 50px;
+  background: rgba(35,170,176,0);
+  z-index: 9999;
+}
+.myUser-header .header .icon-box{
+  width: 30px;
+  margin:10px 10px 0;
+  display: block;
+  float: left;
+}
+.myUser-header .header .icon-left{
+  float: left;
+}
+.myUser-header .header .icon-right{
+  float: right;
+}
+.myUser .myUser-body{
+  background: white;
+  margin-bottom: 10px;
+}
+.myUser-body .head-portrait{
+  position: relative;
+  display: table;
+  width: 100%;
+}
+.myUser-body .head-portrait .head-bg{
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  width: 100%;
+}
+.myUser-body .head-portrait .head-img{
+  position: absolute;
+  top: 60px;
+  left: 50%;
+  width: 70px;
+  height: 70px;
+  border-radius: 50%;
+  border: 4px solid white;
+  transform: translateX(-50%);
+}
+.myUser-body .head-portrait .user-name{
+  position: absolute;
+  top: 135px;
+  left: 50%;
+  width: 70px;
+  height: 70px;
+  font-size: 14px;
+  font-weight: bold;
+  color: #222222;
+  transform: translateX(-50%);
+}
+.myUser-body .eachList-box{
+  padding:10px;
+  margin-top: 140px;
+}
+.myUser-body .eachList-box .title{
+  font-size: 14px;
+  font-weight: bold;
+  color: #333;
+}
+.myUser-body .eachList-box .operationLists .title{
+  display: none;
+}
+.myUser-body .eachList-box ul{
+  border-bottom: 1px solid #E7E7E7;
+  display: table;
+  width: 100%;
+  margin-bottom: 20px;
+}
+.myUser-body .eachList-box ul li{
+  text-align: center;
+  margin-bottom: 14px;
+  float: left;
+  margin-top: 20px;
+}
+.myUser-body .eachList-box .operationLists li{
+  width: 33.3%;
+  text-align: center;
+  margin-bottom: 14px;
+  float: left;
+}
+
+.myUser-body .eachList-box ul li img{
+  display: block;
+  width: 30px;
+  margin: 0 auto;
+}
+.myUser-body .eachList-box ul li span{
+  display: block;
+  font-size: 14px;
+  color:#313131;
+  margin-top: 4px;
+}
+.myUser-body .eachList-box .walletLists li,
+.myUser-body .eachList-box .serviceLists li{
+  width: 25%;
+  text-align: center;
+  margin-bottom: 14px;
+  float: left;
+}
+.myUser-body .eachList-box>div:last-child ul {
+  margin-bottom: 0;
+}

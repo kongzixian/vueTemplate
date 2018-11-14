@@ -1,0 +1,28 @@
+{
+  "myUserLists":[
+    {"id":1,"word":"operationLists","children":[
+      {"id":11,"word":"collect","name":"收藏","imgUrl":"../static/img/user/operation_1.png"},
+      {"id":12,"word":"evaluate","name":"评价","imgUrl":"../static/img/user/operation_2.png"},
+      {"id":13,"word":"footmark","name":"足迹","imgUrl":"../static/img/user/operation_3.png"}
+      ]},
+    {"id":2,"word":"walletLists","name":"美团钱包","children":[
+      {"id":21,"word":"myWallet","name":"我的钱包","imgUrl":"../static/img/user/wallet_1.png"},
+      {"id":22,"word":"redPacketTicket","name":"红包/卡券","imgUrl":"../static/img/user/wallet_2.png"},
+      {"id":23,"word":"bankCard","name":"银行卡","imgUrl":"../static/img/user/wallet_3.png"},
+      {"id":24,"word":"balance","name":"余额","imgUrl":"../static/img/user/wallet_4.png"},
+      {"id":25,"word":"creditCard","name":"美团信用卡","imgUrl":"../static/img/user/wallet_5.png"},
+      {"id":26,"word":"creditCardRepay","name":"信用卡还款","imgUrl":"../static/img/user/wallet_6.png"},
+      {"id":27,"word":"yinlianerweima","name":"银联二维码","imgUrl":"../static/img/user/wallet_7.png"}
+      ]},
+    {"id":3,"word":"serviceLists","name":"美团服务","children":[
+      {"id":31,"word":"memberCenter","name":"会员中心","imgUrl":"../static/img/user/service_1.png"},
+      {"id":32,"word":"phoneFullPrice","name":"手机充值","imgUrl":"../static/img/user/service_2.png"},
+      {"id":33,"word":"serviceCenter","name":"客服中心","imgUrl":"../static/img/user/service_3.png"},
+      {"id":34,"word":"friendGoWhich","name":"好友去哪","imgUrl":"../static/img/user/service_4.png"},
+      {"id":35,"word":"aviodFlowUseUT","name":"免流用美团","imgUrl":"../static/img/user/service_5.png"},
+      {"id":36,"word":"invoiceHelper","name":"发票助手","imgUrl":"../static/img/user/service_6.png"},
+      {"id":37,"word":"teamwork","name":"我要合作","imgUrl":"../static/img/user/service_7.png"},
+      {"id":38,"word":"about","name":"关于美团","imgUrl":"../static/img/user/service_8.png"}
+      ]}
+  ]
+}

@@ -1,0 +1,9 @@
+{"imgDatas":
+  [
+  {"id":1,"name":"美食","iconUrl":"../static/img/icon/nav_1.png"},
+  {"id":2,"name":"电影/演出","iconUrl":"../static/img/icon/nav_2.png"},
+  {"id":3,"name":"酒店住宿","iconUrl":"../static/img/icon/nav_3.png"},
+  {"id":4,"name":"休闲娱乐","iconUrl":"../static/img/icon/nav_4.png"},
+  {"id":5,"name":"外卖","iconUrl":"../static/img/icon/nav_5.png"}
+  ]
+}

@@ -1,0 +1,222 @@
+.home-body{
+  background: #F4F4F4;
+  margin: 50px 0;
+}
+
+.banner ul li{
+  width: 100%;
+}
+img{
+  display: block;
+  width: 100%;
+}
+.nav-box{
+  background: white;
+}
+.nav-list{
+  display: table;
+  margin: 0 16px;
+  background: white;
+  padding:16px 0 20px;
+  border-bottom: 1px solid #EEEEEE;
+}
+.subNav-list{
+  display: table;
+  background: white;
+  padding-bottom: 18px;
+}
+.nav-list li,.subNav-list li{
+  float: left;
+  width: 20%;
+  text-align: center;
+}
+.subNav-list li{
+  margin-top: 16px;
+}
+.nav-list li img{
+    width: 80%;
+    margin: 0 auto;
+}
+.subNav-list li img{
+  width: 36%;
+  margin: 0 auto;
+}
+.subNav-list li span{
+  display: block;
+  margin-top:10px;
+}
+
+
+
+.fallsLayout{
+  background: white;
+  margin-top: 20px;
+  padding: 10px;
+}
+.fallsLayout ul {
+  width: 100%;
+  display: table;
+}
+.fallsLayout ul li{
+  float: left;
+  position: relative;
+}
+.fallsLayout ul li .tag{
+  position: absolute;
+  top: 6px;
+  left: -4px;
+  display: block;
+  padding: 4px 8px;
+  color: white;
+}
+
+.fallsLayout ul li .detailBox{
+  margin-top: 30px;
+  padding: 10px;
+}
+.fallsLayout ul li .detailBox h3{
+  color: #323332;
+  font-size: 16px;
+  font-weight: bold;
+}
+.fallsLayout ul li .detailBox h4{
+  display: table;
+    padding: 4px;
+
+    color: white;
+    margin-top: 10px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+.fallsLayout ul li:nth-child(1){
+  width: 31.5%;
+  height: 300px;
+  background: #FAF2F0;
+  margin-right: 2.5%;
+}
+.fallsLayout ul li:nth-child(2){
+  width: 66%;
+  height: 145px;
+  background: #EEEFE9;
+}
+.fallsLayout ul li:nth-child(3){
+  width: 31.75%;
+  height: 145px;
+  background: #F8F9F1;
+  margin-top: 10px;
+  margin-right: 2.5%;
+}
+.fallsLayout ul li:nth-child(4){
+  width: 31.75%;
+  height: 145px;
+  background: #F3F6FD;
+  margin-top: 10px;
+}
+.fallsLayout ul li .imgBox{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.fallsLayout ul li:nth-child(1) .tag{
+  background: #FC655E;
+}
+.fallsLayout ul li:nth-child(1) .detailBox h4{
+  background: #FE9693;
+}
+.fallsLayout ul li:nth-child(2) .tag{
+  background: #BAAA86;
+}
+.fallsLayout ul li:nth-child(2) .detailBox h4{
+  border:1px solid #B4AA91;
+  color:#B4AA91;
+}
+.fallsLayout ul li:nth-child(3) .tag{
+  background: #F8AD3A;
+}
+.fallsLayout ul li:nth-child(3) .detailBox h4{
+  border:1px solid #F1BD6B;
+  color:#F1BD6B;
+}
+.fallsLayout ul li:nth-child(4) .tag{
+  background: #63B0FE;
+}
+.fallsLayout ul li:nth-child(4) .detailBox h4{
+  border:1px solid #4898EC;
+  color:#4898EC;
+}
+
+
+.subBanner{
+  margin-top: 20px;
+}
+
+.likeList-container{
+  margin-top:20px;
+  background:white;
+}
+.likeList-container .title{
+  line-height: 40px;
+  text-align: center;
+  color:#979797;
+  font-size: 14px;
+}
+
+.likeList-container .like-list li{
+  padding:16px 10px;
+  border-bottom:1px solid #E7E7E7;
+  display: table;
+  width: 100%;
+}
+.likeList-container .img-box{
+  width: 22%;
+}
+.likeList-container .details-box{
+  width: 74%;
+}
+.likeList-container .details-box .title-box{
+  display: table;
+  width:100%;
+}
+.likeList-container .details-box .title-box .title{
+  font-size: 16px;
+  font-weight: bold;
+  height: 24px;
+  line-height:24px;
+  color:#373737;
+}
+.likeList-container .details-box .title-box .distance{
+  display: block;
+    padding: 0;
+    margin-top: 6px;
+    color: #6C6C6C;
+}
+.likeList-container .details-box p{
+  line-height: 32px;
+  color: #6A6A6A;
+}
+.likeList-container .details-box .priceDetail-box{
+  display: table;
+  width: 100%;
+}
+.likeList-container .details-box .priceDetail-box .price{
+  color: #FF6600;
+  margin-right: 10px;
+  font-weight: bold;
+}
+.likeList-container .details-box .priceDetail-box .price b{
+  font-size: 18px;
+}
+.likeList-container .details-box .priceDetail-box .retailSalesPrice,
+.likeList-container .details-box .priceDetail-box .workOff{
+  color: #6A6A6A;
+  margin-top:4px;
+}
+.likeList-container .discounts{
+  background: #FEF4F2;
+  border: 1px solid #EBDAD7;
+  color:#CE655E;
+  display: table;
+    padding: 2px 4px;
+    border-radius: 4px;
+    margin-top: 4px;
+}
